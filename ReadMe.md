@@ -1,8 +1,5 @@
 ---
-title: "Leitor de Código de Barras"
-tags:
-  - python
-  - data-science
+# "Leitor de Código de Barras"
 ---
 
 # Índice
